@@ -3,6 +3,6 @@
     "name": "Fetch Sim Results",
     "uri": "https://raw.githubusercontent.com/antonelepfl/simulation-launcher-notebooks/analysis-notebooks/analysis-notebooks/fetch_sim_results.ipynb",
     "txtToReplace": "SIMULATION_ID",
-    "appId": 410
+    "appId": 175
   }
 ]
